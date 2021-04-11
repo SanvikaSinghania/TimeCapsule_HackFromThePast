@@ -1,0 +1,272 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/cvb.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 118px;
+  width: 118px;
+  margin: 109px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  background-image: none;
+  font-size: 4.5rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  width: 697px;
+  margin: 55px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 2;
+  font-size: 1.125rem;
+  font-style: italic;
+  width: 449px;
+  margin: 35px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 74px;
+  width: 497px;
+  margin: 35px auto 60px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  text-transform: uppercase;
+  padding-top: 22px;
+  padding-bottom: 22px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3.625rem;
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+    margin-top: 83px;
+  }
+}.u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 752px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin: -112px auto 0 0;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: url("images/msdhapo-ec040-h-jpg-1582293926.jpg");
+  min-height: 432px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-image-2 {
+  background-image: url("images/shutterstock-editorial-5884463z-1582294166.jpg");
+  min-height: 432px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.u-section-2 .u-image-3 {
+  background-image: url("images/legally-blonde-1-editorial-5883215o-huge-1582293721.jpg");
+  min-height: 288px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-image-4 {
+  background-image: url("images/princesshed.webp");
+  min-height: 287px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-image-5 {
+  background-image: url("images/mcx-actors-preparing-for-roles-heath-ledger-the-dark-knight.jpg");
+  min-height: 288px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-image-6 {
+  background-image: url("images/shutterstock-editorial-5885988aq-1582294250.jpg");
+  min-height: 432px;
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-image-7 {
+  background-image: url("images/Devil-Wears-Prada-The-960x1440.jpg");
+  min-height: 432px;
+  background-position: 50% 50%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 400px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 270px;
+    padding-right: 9px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+}.u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 889px;
+}
+
+.u-section-3 .u-image-1 {
+  background-image: url("images/shutterstock-editorial-5884806o-1582239166.jpg");
+  min-height: 296px;
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-image-2 {
+  background-image: url("images/shutterstock-editorial-5886243bj-1582239227.jpg");
+  min-height: 296px;
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-image-3 {
+  background-image: url("images/shutterstock-editorial-5881079l-1582294110.jpg");
+  min-height: 296px;
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-image-4 {
+  min-height: 296px;
+  background-image: url("images/shutterstock-editorial-5885843ab-1582294681.jpg");
+  background-position: 50% 5.33%;
+}
+
+.u-section-3 .u-shape-1 {
+  height: 294px;
+  margin: 1px auto 0 0;
+}
+
+.u-section-3 .u-image-5 {
+  background-image: url("images/twilight76-summit-jpg-1582294286.jpg");
+  min-height: 296px;
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-image-6 {
+  background-image: url("images/shutterstock-editorial-5884982ak-1582239180.jpg");
+  min-height: 296px;
+  background-position: 50% 17.28%;
+}
+
+.u-section-3 .u-image-7 {
+  background-image: url("images/MSDBRJO_EC008.jpg");
+  min-height: 296px;
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-image-8 {
+  min-height: 296px;
+  background-image: url("images/mamma-mia-shutterstock-editorial-5886164af-huge-1582293763.jpg");
+  background-position: 50% 50%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 400px;
+  }
+
+  .u-section-3 .u-image-4 {
+    min-height: 318px;
+    background-position: 50% 50%;
+  }
+
+  .u-section-3 .u-shape-1 {
+    margin-top: -265px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-image-4 {
+    min-height: 341px;
+  }
+
+  .u-section-3 .u-shape-1 {
+    margin-top: -260px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-image-4 {
+    min-height: 296px;
+  }
+
+  .u-section-3 .u-shape-1 {
+    margin-top: -259px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-shape-1 {
+    margin-top: -256px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
